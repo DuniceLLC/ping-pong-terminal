@@ -1,0 +1,9 @@
+APIs versions?
+proper erorr handling
+ability to run autonomous applications
+proper definition of the REST API routes: implementation, status codes etc.
+dentification/authentication (during both of joining and game processes).
+Referee should export a report
+complete setup instructions.
+full list of REST API routes supported by both the Referee and the Player sub- application.
+unit tests?
